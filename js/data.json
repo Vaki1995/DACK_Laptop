@@ -1,0 +1,27 @@
+//Tạo cơ sở dữ liệu với dạng json
+{
+	"product":[
+		{
+			"type":"corei7",
+			"producer":"Asus",
+			"name":"Laptop Asus A556UF-XX063D Corei7-6500U",
+			"price":13319000,
+			"img":"Asus-A556UF-XX063D-Corei7-6500U.jpg",
+			"info":["Chip: Intel Core i7-6500U (2.5GHz; 4MB Cache)","RAM: 4GB DDR3L","Ổ cứng: 1TB - 5400 RPM","Chipset đồ họa: 2GB DDR3L NVIDIA GeForce 930M","Màn hình: 15.6 inches","Hệ điều hành: Free DOS","Pin: 2 Cell"],
+			"numSee":0,
+			"numSale":0,
+			"madeIn":"Đài Loan"
+		},
+		{
+			"type":"corei7",
+			"producer":"Asus",
+			"name":"Laptop Asus G752VS-GC175T Corei7-6820HK",
+			"price":49990000,
+			"img":"AsusG752VS-GC175TCorei7-6820HK.jpg",
+			"info":"Chip: Intel Core i7-6500U (2.5GHz; 4MB Cache)",
+			"numSee":0,
+			"numSale":0,
+			"madeIn":"Đài Loan"
+		},
+	]
+}
